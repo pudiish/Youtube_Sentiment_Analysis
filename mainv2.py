@@ -5,7 +5,7 @@ from textblob import TextBlob
 
 # Replace 'YOUR_API_KEY' with your actual API key
 API_KEY = 'AIzaSyD4L2fnzwFH1liZjryge9lhQXzOdeqmMww'
-VIDEO_ID = '0K7LJOy_KdU'  # Replace with the YouTube video ID you want to scrape comments from
+VIDEO_ID = 'hQsZUVMwEls'  # Replace with the YouTube video ID you want to scrape comments from
 
 
 # Create a YouTube Data API service
